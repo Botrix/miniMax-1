@@ -1,5 +1,5 @@
 // My Minimax Tictactoe.cpp : Defines the entry point for the console application.
-//  comment 1
+//  comment 2	
 
 #include "stdafx.h"
 #include <Windows.h>
